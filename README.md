@@ -5,7 +5,26 @@ If you want to try running code in this repo, do the following:
 - clone this repo
 - cd into the repo
 - create a python venv
+- do `pip install -r requirements.txt`
 - run `run.sh`
+
+Like this:
+```console
+git clone git@github.com:ailomaa/good-practices.git
+cd good-practices
+python -m venv good-venv
+source good-venv/bin/activate
+which python         # making sure we activated the venv
+pip install -r requirements.txt
+./run.sh
+```
+
+Once you are done, you can remove the repository together with the venv.
+```console
+deactivate     # deactivate the venv
+cd ..
+rm -rf good-practices/
+```
 
 Docs are located in `docs/`
 

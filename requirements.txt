@@ -1,0 +1,4 @@
+# Small, pure-Python packages. Neither is part of the standard library,
+# so wordfreq.py will not run until these are installed in your venv.
+Unidecode==1.3.8
+tabulate==0.9.0

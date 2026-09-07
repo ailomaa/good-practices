@@ -1,0 +1,24 @@
+Fältanteckningar, session 3
+Field notes, session 3
+
+Deltagarna ombads att läsa texten högt och sedan sammanfatta den med egna ord.
+Participants were asked to read the text aloud and then summarise it in their
+own words. Sammanfattningarna spelades in och transkriberades samma dag.
+
+Det första vi lade märke till var att deltagarna ofta bytte språk mitt i en
+mening. The switch almost always happened at a clause boundary, never in the
+middle of a noun phrase. Detta mönster var stabilt över alla sex deltagare.
+
+En deltagare förklarade att hon tänkte på svenska men läste på engelska, och
+att det kändes naturligt att blanda. Another participant said the opposite:
+that reading in English made her think in English, and that switching back
+felt effortful.
+
+Vi räknade förekomsten av varje ord i transkriptionerna. De vanligaste orden
+var förstås funktionsord, vilket är väntat. The interesting part was the
+distribution of content words across the two languages, which differed
+markedly between the reading task and the summary task.
+
+Nästa session ska vi upprepa uppgiften med en längre text och fler deltagare.
+Next session we repeat the task with a longer text and more participants.
+Anteckningarna sparas i data-mappen tillsammans med ljudfilerna.
