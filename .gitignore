@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+good-venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Output produced by run.sh
+results/
+
+# OS clutter
+.DS_Store
+Thumbs.db
