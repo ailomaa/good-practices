@@ -13,7 +13,10 @@ from collections import Counter
 from tabulate import tabulate
 from unidecode import unidecode
 
-WORD = re.compile(r"\w+", re.UNICODE)
+# A word is a run of letters, optionally joined by an apostrophe or a hyphen:
+# "don't" and "code-switching" are one word each. Digits and underscores are
+# not letters, so "session_3" yields "session" and "2026" is ignored.
+WORD = re.compile(r"[^\W\d_]+(?:['’-][^\W\d_]+)*", re.UNICODE)
 
 
 def parse_args():
