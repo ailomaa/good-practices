@@ -4,9 +4,10 @@ If you want to try running code in this repo, do the following:
 
 - clone this repo
 - cd into the repo
-- create a python venv
-- do `pip install -r requirements.txt`
-- run `run.sh`
+- create a python venv and activate it
+- install python requirements
+- check contents of `run.sh`
+- then run `run.sh`
 
 Like this:
 ```console
@@ -16,6 +17,7 @@ python -m venv good-venv
 source good-venv/bin/activate
 which python         # making sure we activated the venv
 pip install -r requirements.txt
+cat run.sh
 ./run.sh
 ```
 
